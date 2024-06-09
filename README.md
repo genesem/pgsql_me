@@ -1,4 +1,5 @@
 # pgsql_me
 
-https://github.com/genesem/
+Website is:
+
 https://www.pgsql.me/
